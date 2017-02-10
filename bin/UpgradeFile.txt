@@ -1,0 +1,11 @@
+Speed Up
+Speed Down
+Rapid Fire
+Slow Fire
+Invisible
+Increase MaxFire
+Decrease MaxFire
+Homing Rocket
+Plasma Shot
+Shotgun
+End
